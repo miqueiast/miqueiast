@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miqueiast
 - 👀 I’m interested in develop my skills
-- 🌱 I’m currently learning Python and Linux
-- 💞️ I’m looking to collaborate on projects that allow me to develop as a professional.
+- 🌱 I’m currently learning Python, SQL, R and Linux
+- 💞️ I’m looking to collaborate on projects that allow me to develop as a Data Scientist.
 - 📫 How to reach me just contact me here
 
 <!---
